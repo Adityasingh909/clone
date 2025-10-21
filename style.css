@@ -178,6 +178,14 @@ nav{
     color: white;
    
 }
+.scroll2{
+    background-color: #12121273;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: auto; 
+    overflow-x: hidden;
+     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
 
 .sidenav{
     margin-top: 35px;
